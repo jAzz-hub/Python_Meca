@@ -21,4 +21,10 @@
 <td align="center"><strong><i>👎</i></strong></td>
 <td><a href='https://github.com/jAzz-hub/Python_Meca':thumbsup: > Classes</td>
 </tr>
+
+<tr>
+<td align="center"><strong><i>👍</i></strong></td>
+<td><a href='https://github.com/jAzz-hub/Python_Meca/tree/main/Simulado%201':thumbsup: > Simulado 1</td>
+</tr>
+  
 </table>
