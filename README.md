@@ -38,12 +38,12 @@
 # Referências:
 
 
-- Funções - [Allen B. Downey - Pense em Python 2ª ed.](#https://penseallen.github.io/PensePython2e/)
+- Funções - <a href = "https://penseallen.github.io/PensePython2e/">Allen B. Downey - Pense em Python 2ª ed.</a>
 
-- Datetime - [Eduardo Mendes - Live de Python #203](#https://www.youtube.com/watch?v=BImF-dZYass)
+- Datetime - <a href = "https://www.youtube.com/watch?v=BImF-dZYass">Eduardo Mendes - Live de Python #203</a>
 
 
 # Dúvidas
-- Entrem em contato no [Telegram](#https://t.me/joaaogg).
+- Entrem em contato no <a href = "https://t.me/joaaogg"> Telegram </a>
 - Procure-nos nos horários de monitoria.
 - Abra uma issue neste repositório com sua dúvida.
