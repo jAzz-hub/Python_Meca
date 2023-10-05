@@ -9,12 +9,17 @@
 </tr>
 
 <tr>
+<td align="center"><strong><i>👍</i></strong></td>
+<td><a href='https://github.com/jAzz-hub/Python_Meca/tree/main/Simulado%201':thumbsup: > Datetime </td>
+</tr>
+
+<tr>
 <td align="center"><strong><i> 👍 </i></strong>
 </td>
 <td align="center"><a href='https://github.com/jAzz-hub/Python_Meca/blob/main/Cadernos/Caderno_de_Matrizes.ipynb':thumbsup: > Matrizes </td>
 </tr>
 <tr>
-<td align="center"><strong><i>🔨</i></strong></td>
+<td align="center"><strong><i>👍</i></strong></td>
 <td align="center"> <a href='https://pense-python.caravela.club/03-funcoes/00-funcoes.html':thumbsup: > Funções </td>
 </tr>
 <tr>
@@ -26,5 +31,19 @@
 <td align="center"><strong><i>👍</i></strong></td>
 <td><a href='https://github.com/jAzz-hub/Python_Meca/tree/main/Simulado%201':thumbsup: > Simulado 1</td>
 </tr>
+
   
 </table>
+
+# Referências:
+
+
+- Funções - [Allen B. Downey - Pense em Python 2ª ed.](#https://penseallen.github.io/PensePython2e/)
+
+- Datetime - [Eduardo Mendes - Live de Python #203](#https://www.youtube.com/watch?v=BImF-dZYass)
+
+
+# Dúvidas
+- Entrem em contato no [Telegram](#https://t.me/joaaogg).
+- Procure-nos nos horários de monitoria.
+- Abra uma issue neste repositório com sua dúvida.
